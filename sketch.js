@@ -54,3 +54,4 @@ function draw(){
     sand9.display();
     sand10.display();
 }
+//project24 done by faiz u can find me in github at faiz54 with logo as faiz studios in red color.
