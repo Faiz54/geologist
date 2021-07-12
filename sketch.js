@@ -55,3 +55,5 @@ function draw(){
     sand10.display();
 }
 //project24 done by faiz u can find me in github at faiz54 with logo as faiz studios in red color.
+//https://github.com/Faiz54/geologist/blob/main/sketch.js
+//this is the link.
